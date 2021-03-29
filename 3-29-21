@@ -1,0 +1,2 @@
+ head -1  bdaddFULL-03132021.txt | grep -c f.21001.0.0 
+ # seeing if a column name exists in a file 
